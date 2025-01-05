@@ -11,18 +11,18 @@ Sometimes the file structure might not same, make sure it
 ```
 Engage/
 |-- Topic_1/
-|   |-- Problem_1.java
-|   |-- Problem_2.java
+|   |-- Problem_1.py
+|   |-- Problem_2.py
 |-- Topic_2/
-|   |-- Problem_1.java
-|   |-- Problem_2.java
+|   |-- Problem_1.py
+|   |-- Problem_2.py
 |-- README.md
 ```
 
 ### Folder Breakdown:
 
 - **Topic_X**: Each folder corresponds to a specific topic or concept in programming, such as Arrays, Strings, Recursion, or Data Structures.
-- **Problem_X.java**: Each file contains a coding problem and its solution with comments for better understanding.
+- **Problem_X.py**: Each file contains a coding problem and its solution with comments for better understanding.
 
 ## 🚦 How to Use
 

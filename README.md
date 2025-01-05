@@ -52,20 +52,16 @@ Engage/
 - Data Structures (Stacks, Queues, Linked Lists, Trees, Graphs)
 - Dynamic Programming
 - OOP Concepts
-- Java Basics
+- Python Basics
 
 ## 🛠️ Requirements
 
-- **Java**: Ensure Java is installed on your system.
-- **IDE**: Use any IDE of your choice (e.g., IntelliJ IDEA, Eclipse, or Visual Studio Code).
+- **Python**: Ensure Python is installed on your system.
+- **IDE**: Use any IDE of your choice (e.g.Visual Studio Code).
 
 ## 🌟 Contributing
 
 Feel free to fork this repository and add your practice problems. Contributions are always welcome! 😊
-
-## 📧 Contact
-
-For suggestions or queries, reach out at **your.email@example.com**.
 
 ---
 
